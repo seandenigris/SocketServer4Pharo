@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'SocketServer4Pharo',
+      #directory : 'src',
+      #platforms : [ #pharo ]
+    }
+  ]
+}
